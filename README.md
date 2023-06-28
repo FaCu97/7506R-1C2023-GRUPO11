@@ -3,9 +3,6 @@
 - 92198  - SANCHEZ, GONZALO
 - 100558 - de la PLATA, FACUNDO GASTON
 - 103384 - IGLESIAS TRIPODI, ADRIANA MACARENA
-<<<<<<< HEAD
 
 
 Modelos grandes TP2: https://drive.google.com/drive/folders/17MdokRgDe1grL9UEjOGCyllvyUfVF-RG?usp=sharing
-=======
->>>>>>> 93b27d5f0b6e88ce02c88194dd5f4275a68feedc
